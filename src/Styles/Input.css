@@ -1,0 +1,12 @@
+.accordion{
+    background-color: #EBF5F0;
+    width: 700px;
+    margin: 5px;
+    height: 40px;
+    text-align:start;
+    font-size: 15px;
+    border-radius: 5px;
+    padding-left: 10px;
+    align-items: center;
+    padding-top: 15px;
+}

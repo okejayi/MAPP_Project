@@ -1,0 +1,36 @@
+.Container{
+    padding: 20px 70px;
+    background-image: url(../assets/Mapp_Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.text_area{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    position: relative;
+
+}
+.text1{
+font-size: 30px;
+/* border: 2px solid red; */
+width: 50%;
+line-height: 1rem;
+padding:  0 1rem;
+}
+
+.text2{
+    /* border: 2px solid rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin: 0 5rem;
+    line-height: 2rem;
+}
+#text2_child1{
+    margin-right: 5rem;
+    /* position: relative; */
+}
