@@ -1,0 +1,43 @@
+
+
+.Login{
+    background-image: url('../assets/MAPP_LoginBackround.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    max-width: 100%;
+    padding: 100px;
+}
+
+.Holder{
+
+    display: flex;
+    justify-content: end;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+form{
+ border: 2px solid red;
+ width: 20rem;
+ height: 25rem;
+ border-radius: 15px;
+ background-color: white;
+ padding: 20px;
+
+
+}
+P{
+font-size: small;
+}
+
+.RememberMe{
+    display: flex;
+    justify-content: space-between;
+}
+.dontHaveAccount{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 10px;
+}

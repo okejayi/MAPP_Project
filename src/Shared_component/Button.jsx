@@ -6,9 +6,9 @@ const Button = (prop)=>{
         Button_Type == "Primary"?
       (<button style={{color: "white", background:"none", border:'1px solid black'}}>{"Get started"}</button>)
         :Button_Type == "Secondary"?
-      (<button style={{color: "green", backgroundColor:"white"}}>{"Get started"}</button>)
+      (<button style={{color: "green", backgroundColor:"white"}}>{"Login"}</button>)
         :
-      <button style={{color: "white", backgroundColor:"green"}}>{"Get started"}</button>
+      <button style={{color: "white", backgroundColor:"green"}}>{"Login"}</button>
 
     )
     
